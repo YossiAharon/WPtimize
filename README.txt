@@ -12,7 +12,6 @@ This plugin will cleanup and optimize your WordPress.
 
 == Description ==
 
-
 WPtimize is optimization and cleanup plugin for WordPress include cleanup of all the unnecessary tags and scripts from your WordPress header and optimize your code for faster loading page speed, security and performance.
 
 **Features**
