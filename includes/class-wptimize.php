@@ -58,6 +58,25 @@ class Wptimize {
 	protected $version;
 
 	/**
+	 * Unique identifier for your plugin options.
+	 *
+	 *
+	 *
+	 * @since    1.0.0
+	 *
+	 * @var      string
+	 */
+	private $options_slug;
+	/**
+	 * Default Settings Values.
+	 *
+	 * @since    1.0.0
+	 *
+	 * @var      string
+	 */
+	private $options_data;
+
+	/**
 	 * Define the core functionality of the plugin.
 	 *
 	 * Set the plugin name and the plugin version that can be used throughout the plugin.
@@ -70,7 +89,23 @@ class Wptimize {
 
 		$this->plugin_name = 'wptimize';
 		$this->version = '1.0.0';
-
+		$this->plugin_screen_hook_suffix = null;
+		$this->options_slug ='wptimize_options';
+		$this->options_data = array(
+			// Cleanup
+			'rsd_clean' => 0,
+			'wlwmanifest_clean' => 0,
+			'wp_generator_clean' => 0,
+			'shortlink_clean' => 0,
+		    'feed_links_clean' => 0,
+		    'feed_links_extra_clean' => 0,
+		    'rel_links_clean' => 0,
+		    'canonical_clean' => 0,
+			'emoji_clean' => 0,
+			'js2footer' => 0,
+			'query_string_clean' => 0,
+			'wp_api_clean' => 0,
+		);
 		$this->load_dependencies();
 		$this->set_locale();
 		$this->define_admin_hooks();
