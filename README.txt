@@ -29,7 +29,7 @@ WPtimize is optimization and cleanup plugin for WordPress include cleanup of all
 
 = How do I use this plugin? =
 
-Activate the plugin and go to 'Settings > WPtimizer' to select the tags that you want to clean from your header.
+Activate the plugin and go to 'Settings > WPtimize' to select the tags that you want to clean from your header.
 
 == Changelog ==
 
