@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== WPtimize ===
 Contributors: YossiAharon
 Donate link: http://www.yossi.co.il/
 Tags: cleanup,head,clean,header,optimization
