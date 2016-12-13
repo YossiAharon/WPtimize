@@ -12,7 +12,7 @@ This plugin will cleanup and optimize your WordPress.
 
 == Description ==
 
-WPtimize is optimization and cleanup plugin for WordPress include cleanup of all the unnecessary tags and scripts from your WordPress header and optimize your code for faster loading page speed, security and performance.
+WPtimize is optimization and cleanup plugin for WordPress that cleanup all the unnecessary tags and scripts from your WordPress header and optimize your code for faster loading page speed, security and performance.
 
 **Features**
 
@@ -22,7 +22,7 @@ WPtimize is optimization and cleanup plugin for WordPress include cleanup of all
 
 == Installation ==
 
-1. Upload `wptimize` folder into your plugins directroy (/wp-content/plugins/) or search for \"WPtimize\" on WordPress repository plugins from your WordPress dashboard.
+1. Upload `wptimize` folder into your plugins directroy (/wp-content/plugins/) or search for "WPtimize" on WordPress repository plugins from your WordPress dashboard.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
@@ -37,4 +37,4 @@ Activate the plugin and go to 'Settings > WPtimize' to select the tags that you 
 * Initial Release.
 
 == Screenshots ==
-1. The plugin settings page of WPtimize
+1. WPtimize settings
