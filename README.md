@@ -15,6 +15,12 @@ WPtimize is optimization and cleanup plugin for WordPress include cleanup of all
 
 Activate the plugin and go to 'Settings > WPtimize' to select the tags that you want to clean from your header.
 
+## What actually the plugin do? ##
+
+* Cleans up all the unnecessary tags and scripts from WordPress header includes: RSD, Windows Live, Generator, Shortlink, Feeds, API and more.
+* Move JS from head to footer.
+* Remove query strings from JS and CSS files.
+
 ## Changelog ##
 
 ### 1.0.0 ###
