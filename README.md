@@ -7,8 +7,6 @@ WPtimize is optimization and cleanup plugin for WordPress include cleanup of all
 * Allows you to chose which tags do you want to cleanup from your header.
 * By cleanup of unnecessary tags it optimize your websites for search engines.
 
-For more details please visit: http://www.yossi.co.il/en/wptimize
-
 ## Installation ##
 1. Upload `wptimize` folder into your plugins directroy (/wp-content/plugins/) or search for "WPtimize" on WordPress repository plugins from your WordPress dashboard.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
