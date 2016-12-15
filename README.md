@@ -25,3 +25,9 @@ Activate the plugin and go to 'Settings > WPtimize' to select the tags that you 
 
 ### 1.0.0 ###
 Initial Release.
+
+## Links ##
+
+* [Author's website](http://www.yossi.co.il/en/)
+* [Plugin's page](http://www.yossi.co.il/en/wptimize)
+* [WordPress repository](https://wordpress.org/plugins/wptimize/)
