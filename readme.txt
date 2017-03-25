@@ -1,6 +1,6 @@
 === WPtimize ===
 Contributors: YossiAharon
-Donate link: http://www.yossi.co.il/
+Donate link: https://www.paypal.me/YossiAharon
 Tags: cleanup,head,clean,header,optimization
 Requires at least: 3.0.1
 Tested up to: 4.7
