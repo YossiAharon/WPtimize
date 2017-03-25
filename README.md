@@ -29,7 +29,7 @@ Activate the plugin and go to 'Settings > WPtimize' to select the tags that you 
 ### 1.1.0 ###
 * Tabs was added to the admin area for easy access for all new features that plugin provide
 * Added option to hide the admin bar
-* Added option to clean scripts and styles from none Contact Form 7, WooCommerce and bbPress pages accordingly
+* Added option to clean scripts and styles from non Contact Form 7, WooCommerce and bbPress pages accordingly
 * Added option to hide upgrade notices
 * Added option to disable comments feature of WordPress
 * Display the current memory usage and the percent of total usage
