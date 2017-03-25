@@ -18,7 +18,7 @@
  *
  * @package    Wptimize
  * @subpackage Wptimize/public
- * @author     Yossi Aharon <yossiaharon@yahoo.com>
+ * @author     Yossi Aharon
  */
 class Wptimize_Public {
 
@@ -53,7 +53,7 @@ class Wptimize_Public {
 		$this->version = $version;
 		$this->options_slug = $options_slug;
 		$this->options_data = $options_data;
-		$this->clean_my_head_options = get_option($this->options_slug);
+		$this->wptimize_options = get_option($this->options_slug);
 
 	}
 
@@ -102,7 +102,7 @@ class Wptimize_Public {
 		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/wptimize-public.js', array( 'jquery' ), $this->version, false );
 
 	}
-	
+
     /**
      * Cleanup functions depending on each checkbox returned value in admin
      *

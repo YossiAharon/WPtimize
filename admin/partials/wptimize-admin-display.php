@@ -162,6 +162,6 @@
 	
 	<hr>
 	
-	<p>Developed by <a href="http://www.yossi.co.il/en/">Yossi Aharon</a>. Follow: <a href="http://twitter.com/YossiAharon">Twitter</a>, <a href="http://www.facebook.com/YossiAharon">Facebook</a></p>
+	<p>Developed by <a href="http://www.yossi.co.il/en/" target="_blank">Yossi Aharon</a>. Follow: <a href="http://twitter.com/YossiAharon" target="_blank">Twitter</a>, <a href="http://www.facebook.com/YossiAharon" target="_blank">Facebook</a></p>
 
 </div>

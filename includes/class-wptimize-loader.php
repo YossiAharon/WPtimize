@@ -19,7 +19,7 @@
  *
  * @package    Wptimize
  * @subpackage Wptimize/includes
- * @author     Yossi Aharon <yossiaharon@yahoo.com>
+ * @author     Yossi Aharon
  */
 class Wptimize_Loader {
 

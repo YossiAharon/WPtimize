@@ -18,7 +18,7 @@
  *
  * @package    Wptimize
  * @subpackage Wptimize/admin
- * @author     Yossi Aharon <yossiaharon@yahoo.com>
+ * @author     Yossi Aharon
  */
 class Wptimize_Admin {
 

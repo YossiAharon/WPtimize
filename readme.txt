@@ -3,8 +3,8 @@ Contributors: YossiAharon
 Donate link: http://www.yossi.co.il/
 Tags: cleanup,head,clean,header,optimization
 Requires at least: 3.0.1
-Tested up to: 4.6.1
-Stable tag: trunk
+Tested up to: 4.7
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,11 +14,23 @@ This plugin will cleanup and optimize your WordPress.
 
 WPtimize is optimization and cleanup plugin for WordPress that cleanup all the unnecessary tags and scripts from your WordPress header and optimize your code for faster loading page speed, security and performance.
 
-**Features**
+= Features =
 
 * Lightweight plugin and very simple to use.
 * Allows you to chose which tags do you want to cleanup from your header.
 * By cleanup of unnecessary tags it optimize your websites for search engines.
+
+= What actually the plugin do? =
+
+* Cleans up all the unnecessary tags and scripts from WordPress header includes: RSD, Windows Live, Generator, Shortlink, Feeds, API and more.
+* Move JS from head to footer.
+* Remove query strings from JS and CSS files.
+
+= Links =
+
+* [Author's website](http://www.yossi.co.il/en/)
+* [Plugin's page](http://www.yossi.co.il/en/wptimize)
+* [GitHub repository](https://github.com/YossiAharon/WPtimize)
 
 == Installation ==
 
