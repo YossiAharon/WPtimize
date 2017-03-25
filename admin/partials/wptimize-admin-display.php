@@ -222,8 +222,8 @@
 	} else {
 		$phpmemlim = ini_get('memory_limit');
 	}
-	$phpmemory = __('PHP Memory Usage: ', 'wptimize-pro');
-	$outof = __(' out of ', 'wptimize-pro'); 
+	$phpmemory = __('Memory Usage: ', 'wptimize');
+	$outof = __(' out of ', 'wptimize'); 
 	$memorycolor = 'color:black;';
 	$mempercent = round ($phpmemuse / $phpmemlim * 100, 0);
 	if ($mempercent < 50) { $memorycolor = 'font-weight:bold;color:#008000;font-size:20px'; }
