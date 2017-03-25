@@ -11,7 +11,7 @@
  * Plugin Name:       WPtimize
  * Plugin URI:        wptimize
  * Description:       Optimization and cleanup plugin for WordPress.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Author:            Yossi Aharon
  * Author URI:        http://www.yossi.co.il/
  * Donate link: https://www.paypal.me/YossiAharon

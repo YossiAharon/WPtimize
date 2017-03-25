@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/YossiAharon
 Tags: cleanup,head,clean,header,optimization
 Requires at least: 3.0.1
 Tested up to: 4.7.3
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
