@@ -85,6 +85,7 @@ class Wptimize {
 	 *
 	 * @since    1.0.0
 	 */
+
 	public function __construct() {
 
 		$this->plugin_name = 'wptimize';
@@ -102,10 +103,19 @@ class Wptimize {
 		    'rel_links_clean' => 0,
 		    'canonical_clean' => 0,
 			'emoji_clean' => 0,
+			'wp_api_clean' => 0,
+			// Optimization
 			'js2footer' => 0,
 			'query_string_clean' => 0,
-			'wp_api_clean' => 0,
+			'clean_non_contactform7' => 0,
+			'clean_non_woocommerce' => 0,
+			'clean_non_bbpress' => 0,
+			// Customizations
+			'remove_wp_admin_bar' => 0,
+			'hide_upgrade_notices' => 0,
+			'disable_comments_feature_wp' => 0,
 		);
+
 		$this->load_dependencies();
 		$this->set_locale();
 		$this->define_admin_hooks();
