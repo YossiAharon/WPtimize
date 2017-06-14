@@ -85,7 +85,10 @@ class Wptimize_Admin {
 	 *
 	 * @since    1.0.0
 	 */
-	public function enqueue_scripts() {
+	public function enqueue_scripts($hook) {
+        // Load only on ?page=wptimize
+        if($hook != 'settings_page_wptimize')
+                return;
 
 		/**
 		 * This function is provided for demonstration purposes only.
